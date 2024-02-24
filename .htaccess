@@ -1,0 +1,4 @@
+AddType text/html .html
+AddType text/html .htm
+
+DirectoryIndex index.html index.php index.htm

@@ -1,0 +1,44 @@
+.large-text {
+    font-size: 1.5em;
+}
+.soga-logo {
+    width: 62%; /* Increased from 55% */
+    display: block;
+    margin: 0 auto;
+}
+.navbar-item {
+    font-size: 1.3em;
+    padding: 0.05rem 0.1rem;
+    margin: 0;
+}
+ul.custom-list {
+    list-style-position: inside;
+    text-align: left;
+    padding-left: 1em;
+}
+.narrow-paragraph {
+    max-width: 70%;
+    margin: 0 auto;
+}
+.column img {
+    margin: 0; /* No margin for images */
+}
+iframe {
+            border: none; /* Existing iframe style from contact page */
+        }
+
+.custom-paragraph {
+            font-size: 1.3em;
+            text-align: center;
+        }
+
+.story-image {
+            margin: 1rem;
+        }
+
+.image-caption {
+            text-align: right;
+            font-style: italic;
+            margin: 0.5rem 0;
+        }
+
