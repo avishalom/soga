@@ -1,0 +1,13 @@
+# BATCH 19: A-HG/2007-Nov-H
+# Images to recover: 9
+# Format: HTML_FILE|IMG_SRC|LOCAL_PATH|SOURCE_URL|SECTION
+
+hg-07-Nov.htm|2007-Nov-H/Cameron-080c.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2007-Nov-H/Cameron-080c.jpg|http://skydogsports.com/A-HG/2007-Nov-H/Cameron-080c.jpg|A-HG
+hg-07-Nov.htm|2007-Nov-H/Cameron-124.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2007-Nov-H/Cameron-124.jpg|http://skydogsports.com/A-HG/2007-Nov-H/Cameron-124.jpg|A-HG
+hg-07-Nov.htm|2007-Nov-H/Cameron-145.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2007-Nov-H/Cameron-145.jpg|http://skydogsports.com/A-HG/2007-Nov-H/Cameron-145.jpg|A-HG
+hg-07-Nov.htm|2007-Nov-H/Cameron-159.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2007-Nov-H/Cameron-159.jpg|http://skydogsports.com/A-HG/2007-Nov-H/Cameron-159.jpg|A-HG
+hg-07-Nov.htm|2007-Nov-H/H-P-262.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2007-Nov-H/H-P-262.jpg|http://skydogsports.com/A-HG/2007-Nov-H/H-P-262.jpg|A-HG
+hg-07-Nov.htm|2007-Nov-H/H-P-297.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2007-Nov-H/H-P-297.jpg|http://skydogsports.com/A-HG/2007-Nov-H/H-P-297.jpg|A-HG
+hg-07-Nov.htm|2007-Nov-H/H-P-387.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2007-Nov-H/H-P-387.jpg|http://skydogsports.com/A-HG/2007-Nov-H/H-P-387.jpg|A-HG
+hg-07-Nov.htm|2007-Nov-H/017.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2007-Nov-H/017.jpg|http://skydogsports.com/A-HG/2007-Nov-H/017.jpg|A-HG
+hg-07-Nov.htm|2007-Nov-H/052.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2007-Nov-H/052.jpg|http://skydogsports.com/A-HG/2007-Nov-H/052.jpg|A-HG

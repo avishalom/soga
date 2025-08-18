@@ -1,0 +1,35 @@
+# BATCH 20: A-HG/2012-Wallaby-1
+# Images to recover: 31
+# Format: HTML_FILE|IMG_SRC|LOCAL_PATH|SOURCE_URL|SECTION
+
+2012 Florida.htm|2012-Wallaby-1/!-A/IMG_9198.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-Wallaby-1/!-A/IMG_9198.jpg|http://skydogsports.com/A-HG/2012-Wallaby-1/!-A/IMG_9198.jpg|A-HG
+2012 Florida.htm|2012-Wallaby-1/!-A/IMG_9173.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-Wallaby-1/!-A/IMG_9173.jpg|http://skydogsports.com/A-HG/2012-Wallaby-1/!-A/IMG_9173.jpg|A-HG
+2012 Florida.htm|2012-Wallaby-1/Arial/Arial-Tip/GO010103-Phantom+3-thermal.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-Wallaby-1/Arial/Arial-Tip/GO010103-Phantom+3-thermal.jpg|http://skydogsports.com/A-HG/2012-Wallaby-1/Arial/Arial-Tip/GO010103-Phantom+3-thermal.jpg|A-HG
+2012 Florida.htm|2012-Wallaby-1/!-A/IMG_9192.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-Wallaby-1/!-A/IMG_9192.jpg|http://skydogsports.com/A-HG/2012-Wallaby-1/!-A/IMG_9192.jpg|A-HG
+2012 Florida.htm|2012-Wallaby-1/!-A/IMG_9199.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-Wallaby-1/!-A/IMG_9199.jpg|http://skydogsports.com/A-HG/2012-Wallaby-1/!-A/IMG_9199.jpg|A-HG
+2012 Florida.htm|2012-Wallaby-1/!-A/IMG_9209.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-Wallaby-1/!-A/IMG_9209.jpg|http://skydogsports.com/A-HG/2012-Wallaby-1/!-A/IMG_9209.jpg|A-HG
+2012 Florida.htm|2012-Wallaby-1/Arial/GOPR0-110-Sub-High.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-Wallaby-1/Arial/GOPR0-110-Sub-High.jpg|http://skydogsports.com/A-HG/2012-Wallaby-1/Arial/GOPR0-110-Sub-High.jpg|A-HG
+2012 Florida.htm|2012-Wallaby-1/!-A/IMG_9215.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-Wallaby-1/!-A/IMG_9215.jpg|http://skydogsports.com/A-HG/2012-Wallaby-1/!-A/IMG_9215.jpg|A-HG
+2012 Florida.htm|2012-Wallaby-1/!-A/IMG_9229.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-Wallaby-1/!-A/IMG_9229.jpg|http://skydogsports.com/A-HG/2012-Wallaby-1/!-A/IMG_9229.jpg|A-HG
+2012 Florida.htm|2012-Wallaby-1/!-A/IMG_9232.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-Wallaby-1/!-A/IMG_9232.jpg|http://skydogsports.com/A-HG/2012-Wallaby-1/!-A/IMG_9232.jpg|A-HG
+2012 Florida.htm|2012-Wallaby-1/!-A/IMG_9259.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-Wallaby-1/!-A/IMG_9259.jpg|http://skydogsports.com/A-HG/2012-Wallaby-1/!-A/IMG_9259.jpg|A-HG
+2012 Florida.htm|2012-Wallaby-1/!-A/IMG_9264.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-Wallaby-1/!-A/IMG_9264.jpg|http://skydogsports.com/A-HG/2012-Wallaby-1/!-A/IMG_9264.jpg|A-HG
+2012 Florida.htm|2012-Wallaby-1/!-A/IMG_9267.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-Wallaby-1/!-A/IMG_9267.jpg|http://skydogsports.com/A-HG/2012-Wallaby-1/!-A/IMG_9267.jpg|A-HG
+2012 Florida.htm|2012-Wallaby-1/1-A-15/IMG_2853.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-Wallaby-1/1-A-15/IMG_2853.jpg|http://skydogsports.com/A-HG/2012-Wallaby-1/1-A-15/IMG_2853.jpg|A-HG
+2012 Florida.htm|2012-Wallaby-1/Arial/GOPR0-111-Approach.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-Wallaby-1/Arial/GOPR0-111-Approach.jpg|http://skydogsports.com/A-HG/2012-Wallaby-1/Arial/GOPR0-111-Approach.jpg|A-HG
+2012 Florida.htm|2012-Wallaby-1/1-A-15/IMG_2856.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-Wallaby-1/1-A-15/IMG_2856.jpg|http://skydogsports.com/A-HG/2012-Wallaby-1/1-A-15/IMG_2856.jpg|A-HG
+2012 Florida.htm|2012-Wallaby-1/1-A-15/IMG_2864.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-Wallaby-1/1-A-15/IMG_2864.jpg|http://skydogsports.com/A-HG/2012-Wallaby-1/1-A-15/IMG_2864.jpg|A-HG
+2012 Florida.htm|2012-Wallaby-1/1-A-15/IMG_2870.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-Wallaby-1/1-A-15/IMG_2870.jpg|http://skydogsports.com/A-HG/2012-Wallaby-1/1-A-15/IMG_2870.jpg|A-HG
+2012 Florida.htm|2012-Wallaby-1/1-A-15/IMG_2916.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-Wallaby-1/1-A-15/IMG_2916.jpg|http://skydogsports.com/A-HG/2012-Wallaby-1/1-A-15/IMG_2916.jpg|A-HG
+2012 Florida.htm|2012-Wallaby-1/1-A-15/IMG_2950.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-Wallaby-1/1-A-15/IMG_2950.jpg|http://skydogsports.com/A-HG/2012-Wallaby-1/1-A-15/IMG_2950.jpg|A-HG
+2012 Florida.htm|2012-Wallaby-1/1-A-15/IMG_2996.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-Wallaby-1/1-A-15/IMG_2996.jpg|http://skydogsports.com/A-HG/2012-Wallaby-1/1-A-15/IMG_2996.jpg|A-HG
+2012 Florida.htm|2012-Wallaby-1/1-A-15/IMG_2964.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-Wallaby-1/1-A-15/IMG_2964.jpg|http://skydogsports.com/A-HG/2012-Wallaby-1/1-A-15/IMG_2964.jpg|A-HG
+2012 Florida.htm|2012-Wallaby-1/1-A-15/IMG_2932.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-Wallaby-1/1-A-15/IMG_2932.jpg|http://skydogsports.com/A-HG/2012-Wallaby-1/1-A-15/IMG_2932.jpg|A-HG
+2012 Florida.htm|2012-Wallaby-1/1-A-15/IMG_2953.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-Wallaby-1/1-A-15/IMG_2953.jpg|http://skydogsports.com/A-HG/2012-Wallaby-1/1-A-15/IMG_2953.jpg|A-HG
+2012 Florida.htm|2012-Wallaby-1/Arial/Arial-Tip/GO010103-Pt-Lands.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-Wallaby-1/Arial/Arial-Tip/GO010103-Pt-Lands.jpg|http://skydogsports.com/A-HG/2012-Wallaby-1/Arial/Arial-Tip/GO010103-Pt-Lands.jpg|A-HG
+2012 Florida.htm|2012-Wallaby-1/1-A-15/IMG_2960.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-Wallaby-1/1-A-15/IMG_2960.jpg|http://skydogsports.com/A-HG/2012-Wallaby-1/1-A-15/IMG_2960.jpg|A-HG
+2012 Florida.htm|2012-Wallaby-1/1-A-15/IMG_3007.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-Wallaby-1/1-A-15/IMG_3007.jpg|http://skydogsports.com/A-HG/2012-Wallaby-1/1-A-15/IMG_3007.jpg|A-HG
+2012 Florida.htm|2012-Wallaby-1/1-A-20/IMG_9375.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-Wallaby-1/1-A-20/IMG_9375.jpg|http://skydogsports.com/A-HG/2012-Wallaby-1/1-A-20/IMG_9375.jpg|A-HG
+2012 Florida.htm|2012-Wallaby-1/1-A-20/IMG_9490.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-Wallaby-1/1-A-20/IMG_9490.jpg|http://skydogsports.com/A-HG/2012-Wallaby-1/1-A-20/IMG_9490.jpg|A-HG
+2012 Florida.htm|2012-Wallaby-1/1-A-20/IMG_9457.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-Wallaby-1/1-A-20/IMG_9457.jpg|http://skydogsports.com/A-HG/2012-Wallaby-1/1-A-20/IMG_9457.jpg|A-HG
+2012 Florida.htm|2012-Wallaby-1/1-A-20/IMG_9403.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-Wallaby-1/1-A-20/IMG_9403.jpg|http://skydogsports.com/A-HG/2012-Wallaby-1/1-A-20/IMG_9403.jpg|A-HG

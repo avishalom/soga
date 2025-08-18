@@ -1,0 +1,46 @@
+# BATCH 18: A-HG/2014-Soga
+# Images to recover: 42
+# Format: HTML_FILE|IMG_SRC|LOCAL_PATH|SOURCE_URL|SECTION
+
+2014-soga.htm|2014-Soga/IMG_7588.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2014-Soga/IMG_7588.jpg|http://skydogsports.com/A-HG/2014-Soga/IMG_7588.jpg|A-HG
+2014-soga.htm|2014-Soga/IMG_7574-fin.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2014-Soga/IMG_7574-fin.jpg|http://skydogsports.com/A-HG/2014-Soga/IMG_7574-fin.jpg|A-HG
+2014-soga.htm|2014-Soga/Sept=07/IMG_8730.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2014-Soga/Sept=07/IMG_8730.jpg|http://skydogsports.com/A-HG/2014-Soga/Sept=07/IMG_8730.jpg|A-HG
+2014-soga.htm|2014-Soga/Sept=07/IMG_8727.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2014-Soga/Sept=07/IMG_8727.jpg|http://skydogsports.com/A-HG/2014-Soga/Sept=07/IMG_8727.jpg|A-HG
+2014-soga.htm|2014-Soga/Sept=07/IMG_8722.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2014-Soga/Sept=07/IMG_8722.jpg|http://skydogsports.com/A-HG/2014-Soga/Sept=07/IMG_8722.jpg|A-HG
+2014-soga.htm|2014-Soga/Sept=07/IMG_8738.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2014-Soga/Sept=07/IMG_8738.jpg|http://skydogsports.com/A-HG/2014-Soga/Sept=07/IMG_8738.jpg|A-HG
+2014-soga.htm|2014-Soga/Sept=07/IMG_8747.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2014-Soga/Sept=07/IMG_8747.jpg|http://skydogsports.com/A-HG/2014-Soga/Sept=07/IMG_8747.jpg|A-HG
+2014-soga.htm|2014-Soga/Sept=07/IMG_8746.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2014-Soga/Sept=07/IMG_8746.jpg|http://skydogsports.com/A-HG/2014-Soga/Sept=07/IMG_8746.jpg|A-HG
+2014-soga.htm|2014-Soga/Sept-14/SLGrsmChartServlet.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2014-Soga/Sept-14/SLGrsmChartServlet.jpg|http://skydogsports.com/A-HG/2014-Soga/Sept-14/SLGrsmChartServlet.jpg|A-HG
+2014-soga.htm|2014-Soga/Sept-14/Snapshot-4-(16-09-2014-9-00-PM).jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2014-Soga/Sept-14/Snapshot-4-(16-09-2014-9-00-PM).jpg|http://skydogsports.com/A-HG/2014-Soga/Sept-14/Snapshot-4-(16-09-2014-9-00-PM).jpg|A-HG
+2014-soga.htm|2014-Soga/Sept-14/Snapshot-7-(16-09-2014-9-04-PM).jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2014-Soga/Sept-14/Snapshot-7-(16-09-2014-9-04-PM).jpg|http://skydogsports.com/A-HG/2014-Soga/Sept-14/Snapshot-7-(16-09-2014-9-04-PM).jpg|A-HG
+2014-soga.htm|2014-Soga/Sept-14/Snapshot-21-(16-09-2014-9-18-PM).jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2014-Soga/Sept-14/Snapshot-21-(16-09-2014-9-18-PM).jpg|http://skydogsports.com/A-HG/2014-Soga/Sept-14/Snapshot-21-(16-09-2014-9-18-PM).jpg|A-HG
+2014-soga.htm|2014-Soga/Sept-14/Snapshot-10-(16-09-2014-9-07-PM).jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2014-Soga/Sept-14/Snapshot-10-(16-09-2014-9-07-PM).jpg|http://skydogsports.com/A-HG/2014-Soga/Sept-14/Snapshot-10-(16-09-2014-9-07-PM).jpg|A-HG
+2014-soga.htm|2014-Soga/Sept-14/Snapshot-12-(16-09-2014-9-08-PM).jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2014-Soga/Sept-14/Snapshot-12-(16-09-2014-9-08-PM).jpg|http://skydogsports.com/A-HG/2014-Soga/Sept-14/Snapshot-12-(16-09-2014-9-08-PM).jpg|A-HG
+2014-soga.htm|2014-Soga/Sept-19/Snapshot-12-(20-09-2014-10-42-PM).jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2014-Soga/Sept-19/Snapshot-12-(20-09-2014-10-42-PM).jpg|http://skydogsports.com/A-HG/2014-Soga/Sept-19/Snapshot-12-(20-09-2014-10-42-PM).jpg|A-HG
+2014-soga.htm|2014-Soga/Sept-19/Snapshot-2-(20-09-2014-10-28-PM).jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2014-Soga/Sept-19/Snapshot-2-(20-09-2014-10-28-PM).jpg|http://skydogsports.com/A-HG/2014-Soga/Sept-19/Snapshot-2-(20-09-2014-10-28-PM).jpg|A-HG
+2014-soga.htm|2014-Soga/Sept-19/Snapshot-4-(20-09-2014-10-30-PM).jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2014-Soga/Sept-19/Snapshot-4-(20-09-2014-10-30-PM).jpg|http://skydogsports.com/A-HG/2014-Soga/Sept-19/Snapshot-4-(20-09-2014-10-30-PM).jpg|A-HG
+2014-soga.htm|2014-Soga/Sept-19/IMG_8760.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2014-Soga/Sept-19/IMG_8760.jpg|http://skydogsports.com/A-HG/2014-Soga/Sept-19/IMG_8760.jpg|A-HG
+2014-soga.htm|2014-Soga/Sept-19/Snapshot-9-(20-09-2014-10-37-PM).jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2014-Soga/Sept-19/Snapshot-9-(20-09-2014-10-37-PM).jpg|http://skydogsports.com/A-HG/2014-Soga/Sept-19/Snapshot-9-(20-09-2014-10-37-PM).jpg|A-HG
+2014-soga.htm|2014-Soga/Sept-19/Snapshot-15-(20-09-2014-10-44-PM).jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2014-Soga/Sept-19/Snapshot-15-(20-09-2014-10-44-PM).jpg|http://skydogsports.com/A-HG/2014-Soga/Sept-19/Snapshot-15-(20-09-2014-10-44-PM).jpg|A-HG
+2014-soga.htm|2014-Soga/Sept-19/Snapshot-11-(20-09-2014-10-39-PM).jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2014-Soga/Sept-19/Snapshot-11-(20-09-2014-10-39-PM).jpg|http://skydogsports.com/A-HG/2014-Soga/Sept-19/Snapshot-11-(20-09-2014-10-39-PM).jpg|A-HG
+2014-soga.htm|2014-Soga/Sept-26/Snapshot-2-(28-09-2014-1-00-PM).jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2014-Soga/Sept-26/Snapshot-2-(28-09-2014-1-00-PM).jpg|http://skydogsports.com/A-HG/2014-Soga/Sept-26/Snapshot-2-(28-09-2014-1-00-PM).jpg|A-HG
+2014-soga.htm|2014-Soga/Sept-26/Snapshot-3-(28-09-2014-1-02-PM).jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2014-Soga/Sept-26/Snapshot-3-(28-09-2014-1-02-PM).jpg|http://skydogsports.com/A-HG/2014-Soga/Sept-26/Snapshot-3-(28-09-2014-1-02-PM).jpg|A-HG
+2014-soga.htm|2014-Soga/Oct-27/IMG_8468.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2014-Soga/Oct-27/IMG_8468.jpg|http://skydogsports.com/A-HG/2014-Soga/Oct-27/IMG_8468.jpg|A-HG
+2014-soga.htm|2014-Soga/Oct-27/IMG_8485.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2014-Soga/Oct-27/IMG_8485.jpg|http://skydogsports.com/A-HG/2014-Soga/Oct-27/IMG_8485.jpg|A-HG
+2014-soga.htm|2014-Soga/Oct-27/IMG_1632.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2014-Soga/Oct-27/IMG_1632.jpg|http://skydogsports.com/A-HG/2014-Soga/Oct-27/IMG_1632.jpg|A-HG
+2014-soga.htm|2014-Soga/Oct-27/IMG_1663.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2014-Soga/Oct-27/IMG_1663.jpg|http://skydogsports.com/A-HG/2014-Soga/Oct-27/IMG_1663.jpg|A-HG
+2014-soga.htm|2014-Soga/Oct-27/IMG_1635.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2014-Soga/Oct-27/IMG_1635.jpg|http://skydogsports.com/A-HG/2014-Soga/Oct-27/IMG_1635.jpg|A-HG
+2014-soga.htm|2014-Soga/Oct-27/IMG_8459.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2014-Soga/Oct-27/IMG_8459.jpg|http://skydogsports.com/A-HG/2014-Soga/Oct-27/IMG_8459.jpg|A-HG
+2014-soga.htm|2014-Soga/Oct-27/IMG_8461.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2014-Soga/Oct-27/IMG_8461.jpg|http://skydogsports.com/A-HG/2014-Soga/Oct-27/IMG_8461.jpg|A-HG
+2014-soga.htm|2014-Soga/Oct-27/IMG_1650.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2014-Soga/Oct-27/IMG_1650.jpg|http://skydogsports.com/A-HG/2014-Soga/Oct-27/IMG_1650.jpg|A-HG
+2014-soga.htm|2014-Soga/Oct-27/IMG_1647.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2014-Soga/Oct-27/IMG_1647.jpg|http://skydogsports.com/A-HG/2014-Soga/Oct-27/IMG_1647.jpg|A-HG
+2014-soga.htm|2014-Soga/Oct-27/IMG_8464.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2014-Soga/Oct-27/IMG_8464.jpg|http://skydogsports.com/A-HG/2014-Soga/Oct-27/IMG_8464.jpg|A-HG
+2014-soga.htm|2014-Soga/Oct-27/IMG_8467.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2014-Soga/Oct-27/IMG_8467.jpg|http://skydogsports.com/A-HG/2014-Soga/Oct-27/IMG_8467.jpg|A-HG
+2014-soga.htm|2014-Soga/Oct-27/IMG_8477.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2014-Soga/Oct-27/IMG_8477.jpg|http://skydogsports.com/A-HG/2014-Soga/Oct-27/IMG_8477.jpg|A-HG
+2014-soga.htm|2014-Soga/Oct-27/IMG_8479.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2014-Soga/Oct-27/IMG_8479.jpg|http://skydogsports.com/A-HG/2014-Soga/Oct-27/IMG_8479.jpg|A-HG
+2014-soga.htm|2014-Soga/Oct-27/IMG_8481.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2014-Soga/Oct-27/IMG_8481.jpg|http://skydogsports.com/A-HG/2014-Soga/Oct-27/IMG_8481.jpg|A-HG
+2014-soga.htm|2014-Soga/Oct-27/IMG_8475.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2014-Soga/Oct-27/IMG_8475.jpg|http://skydogsports.com/A-HG/2014-Soga/Oct-27/IMG_8475.jpg|A-HG
+2014-soga.htm|2014-Soga/Oct-27/IMG_8474.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2014-Soga/Oct-27/IMG_8474.jpg|http://skydogsports.com/A-HG/2014-Soga/Oct-27/IMG_8474.jpg|A-HG
+2014-soga.htm|2014-Soga/Oct-27/IMG_8482.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2014-Soga/Oct-27/IMG_8482.jpg|http://skydogsports.com/A-HG/2014-Soga/Oct-27/IMG_8482.jpg|A-HG
+2014-soga.htm|2014-Soga/Oct-27/IMG_8462.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2014-Soga/Oct-27/IMG_8462.jpg|http://skydogsports.com/A-HG/2014-Soga/Oct-27/IMG_8462.jpg|A-HG
+2014-soga.htm|2014-Soga/Oct-27/IMG_8471.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2014-Soga/Oct-27/IMG_8471.jpg|http://skydogsports.com/A-HG/2014-Soga/Oct-27/IMG_8471.jpg|A-HG

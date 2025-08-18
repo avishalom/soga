@@ -1,0 +1,7 @@
+# BATCH 28: RC/09-Planes
+# Images to recover: 3
+# Format: HTML_FILE|IMG_SRC|LOCAL_PATH|SOURCE_URL|SECTION
+
+rcairplanes.htm|09-Planes/IMG_4557-[Desk.jpg|/Users/vishshalit/gith/soga/skydog/RC/09-Planes/IMG_4557-[Desk.jpg|http://skydogsports.com/RC/09-Planes/IMG_4557-[Desk.jpg|RC
+rcairplanes.htm|09-Planes/IMG_4539-[Desk.jpg|/Users/vishshalit/gith/soga/skydog/RC/09-Planes/IMG_4539-[Desk.jpg|http://skydogsports.com/RC/09-Planes/IMG_4539-[Desk.jpg|RC
+rcairplanes.htm|09-Planes/IMG_4540-[Desk.jpg|/Users/vishshalit/gith/soga/skydog/RC/09-Planes/IMG_4540-[Desk.jpg|http://skydogsports.com/RC/09-Planes/IMG_4540-[Desk.jpg|RC
