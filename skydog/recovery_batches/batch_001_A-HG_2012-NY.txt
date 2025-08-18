@@ -1,0 +1,45 @@
+# BATCH 1: A-HG/2012-NY
+# Images to recover: 41
+# Format: HTML_FILE|IMG_SRC|LOCAL_PATH|SOURCE_URL|SECTION
+
+2012 NY.htm|2012-NY/Oct-20/N.Y-321.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-NY/Oct-20/N.Y-321.jpg|http://skydogsports.com/A-HG/2012-NY/Oct-20/N.Y-321.jpg|A-HG
+2012 NY.htm|2012-NY/Oct-20/N.Y-323.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-NY/Oct-20/N.Y-323.jpg|http://skydogsports.com/A-HG/2012-NY/Oct-20/N.Y-323.jpg|A-HG
+2012 NY.htm|2012-NY/Oct-20/N.Y-287.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-NY/Oct-20/N.Y-287.jpg|http://skydogsports.com/A-HG/2012-NY/Oct-20/N.Y-287.jpg|A-HG
+2012 NY.htm|2012-NY/Oct-20/N.Y-325.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-NY/Oct-20/N.Y-325.jpg|http://skydogsports.com/A-HG/2012-NY/Oct-20/N.Y-325.jpg|A-HG
+2012 NY.htm|2012-NY/Oct-20/N.Y-361.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-NY/Oct-20/N.Y-361.jpg|http://skydogsports.com/A-HG/2012-NY/Oct-20/N.Y-361.jpg|A-HG
+2012 NY.htm|2012-NY/Sept-07/IMG_1260.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-NY/Sept-07/IMG_1260.jpg|http://skydogsports.com/A-HG/2012-NY/Sept-07/IMG_1260.jpg|A-HG
+2012 NY.htm|2012-NY/Sept-07/IMG_1264.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-NY/Sept-07/IMG_1264.jpg|http://skydogsports.com/A-HG/2012-NY/Sept-07/IMG_1264.jpg|A-HG
+2012 NY.htm|2012-NY/Sept-07/IMG_1271.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-NY/Sept-07/IMG_1271.jpg|http://skydogsports.com/A-HG/2012-NY/Sept-07/IMG_1271.jpg|A-HG
+2012 NY.htm|2012-NY/Sept-07/IMG_1291.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-NY/Sept-07/IMG_1291.jpg|http://skydogsports.com/A-HG/2012-NY/Sept-07/IMG_1291.jpg|A-HG
+2012 NY.htm|2012-NY/Sept-07/IMG_1274.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-NY/Sept-07/IMG_1274.jpg|http://skydogsports.com/A-HG/2012-NY/Sept-07/IMG_1274.jpg|A-HG
+2012 NY.htm|2012-NY/Sept-07/IMG_1283.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-NY/Sept-07/IMG_1283.jpg|http://skydogsports.com/A-HG/2012-NY/Sept-07/IMG_1283.jpg|A-HG
+2012 NY.htm|2012-NY/Sept-07/IMG_1289.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-NY/Sept-07/IMG_1289.jpg|http://skydogsports.com/A-HG/2012-NY/Sept-07/IMG_1289.jpg|A-HG
+2012 NY.htm|2012-NY/Sept-07/IMG_4288.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-NY/Sept-07/IMG_4288.jpg|http://skydogsports.com/A-HG/2012-NY/Sept-07/IMG_4288.jpg|A-HG
+2012 NY.htm|2012-NY/Sept-07/IMG_4315.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-NY/Sept-07/IMG_4315.jpg|http://skydogsports.com/A-HG/2012-NY/Sept-07/IMG_4315.jpg|A-HG
+2012 NY.htm|2012-NY/Sept-07/IMG_4302.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-NY/Sept-07/IMG_4302.jpg|http://skydogsports.com/A-HG/2012-NY/Sept-07/IMG_4302.jpg|A-HG
+2012 NY.htm|2012-NY/Sept-07/IMG_1270.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-NY/Sept-07/IMG_1270.jpg|http://skydogsports.com/A-HG/2012-NY/Sept-07/IMG_1270.jpg|A-HG
+2012 NY.htm|2012-NY/Sept-07/IMG_4391.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-NY/Sept-07/IMG_4391.jpg|http://skydogsports.com/A-HG/2012-NY/Sept-07/IMG_4391.jpg|A-HG
+2012 NY.htm|2012-NY/Sept-07/IMG_4447.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-NY/Sept-07/IMG_4447.jpg|http://skydogsports.com/A-HG/2012-NY/Sept-07/IMG_4447.jpg|A-HG
+2012 NY.htm|2012-NY/Sept-07/IMG_4381.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-NY/Sept-07/IMG_4381.jpg|http://skydogsports.com/A-HG/2012-NY/Sept-07/IMG_4381.jpg|A-HG
+2012 NY.htm|2012-NY/Sept-07/IMG_4385.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-NY/Sept-07/IMG_4385.jpg|http://skydogsports.com/A-HG/2012-NY/Sept-07/IMG_4385.jpg|A-HG
+2012 NY.htm|2012-NY/Sept-12/IMG_1335.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-NY/Sept-12/IMG_1335.jpg|http://skydogsports.com/A-HG/2012-NY/Sept-12/IMG_1335.jpg|A-HG
+2012 NY.htm|2012-NY/Sept-12/IMG_1324.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-NY/Sept-12/IMG_1324.jpg|http://skydogsports.com/A-HG/2012-NY/Sept-12/IMG_1324.jpg|A-HG
+2012 NY.htm|2012-NY/Sept-12/IMG_1308.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-NY/Sept-12/IMG_1308.jpg|http://skydogsports.com/A-HG/2012-NY/Sept-12/IMG_1308.jpg|A-HG
+2012 NY.htm|2012-NY/Sept-12/IMG_1260.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-NY/Sept-12/IMG_1260.jpg|http://skydogsports.com/A-HG/2012-NY/Sept-12/IMG_1260.jpg|A-HG
+2012 NY.htm|2012-NY/Sept-12/IMG_1302.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-NY/Sept-12/IMG_1302.jpg|http://skydogsports.com/A-HG/2012-NY/Sept-12/IMG_1302.jpg|A-HG
+2012 NY.htm|2012-NY/Sept-12/IMG_1316.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-NY/Sept-12/IMG_1316.jpg|http://skydogsports.com/A-HG/2012-NY/Sept-12/IMG_1316.jpg|A-HG
+2012 NY.htm|2012-NY/Sept-12/IMG_1317.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-NY/Sept-12/IMG_1317.jpg|http://skydogsports.com/A-HG/2012-NY/Sept-12/IMG_1317.jpg|A-HG
+2012 NY.htm|2012-NY/GOPR0169-1.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-NY/GOPR0169-1.jpg|http://skydogsports.com/A-HG/2012-NY/GOPR0169-1.jpg|A-HG
+2012 NY.htm|2012-NY/GOPR0169-2.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-NY/GOPR0169-2.jpg|http://skydogsports.com/A-HG/2012-NY/GOPR0169-2.jpg|A-HG
+2012 NY.htm|2012-NY/GOPR0169-13.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-NY/GOPR0169-13.jpg|http://skydogsports.com/A-HG/2012-NY/GOPR0169-13.jpg|A-HG
+2012 NY.htm|2012-NY/GOPR0169-12.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-NY/GOPR0169-12.jpg|http://skydogsports.com/A-HG/2012-NY/GOPR0169-12.jpg|A-HG
+2012 NY.htm|2012-NY/GOPR0169-7.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-NY/GOPR0169-7.jpg|http://skydogsports.com/A-HG/2012-NY/GOPR0169-7.jpg|A-HG
+2012 NY.htm|2012-NY/GOPR0169-10.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-NY/GOPR0169-10.jpg|http://skydogsports.com/A-HG/2012-NY/GOPR0169-10.jpg|A-HG
+2012 NY.htm|2012-NY/GOPR0170-16.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-NY/GOPR0170-16.jpg|http://skydogsports.com/A-HG/2012-NY/GOPR0170-16.jpg|A-HG
+2012 NY.htm|2012-NY/GOPR0170.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-NY/GOPR0170.jpg|http://skydogsports.com/A-HG/2012-NY/GOPR0170.jpg|A-HG
+2012 NY.htm|2012-NY/GOPR0170-10.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-NY/GOPR0170-10.jpg|http://skydogsports.com/A-HG/2012-NY/GOPR0170-10.jpg|A-HG
+2012 NY.htm|2012-NY/GOPR0170-7.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-NY/GOPR0170-7.jpg|http://skydogsports.com/A-HG/2012-NY/GOPR0170-7.jpg|A-HG
+2012 NY.htm|2012-NY/GOPR0170-8.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-NY/GOPR0170-8.jpg|http://skydogsports.com/A-HG/2012-NY/GOPR0170-8.jpg|A-HG
+2012 NY.htm|2012-NY/GOPR0170-12.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-NY/GOPR0170-12.jpg|http://skydogsports.com/A-HG/2012-NY/GOPR0170-12.jpg|A-HG
+2012 NY.htm|2012-NY/GOPR0170-14.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-NY/GOPR0170-14.jpg|http://skydogsports.com/A-HG/2012-NY/GOPR0170-14.jpg|A-HG
+2012 NY.htm|2012-NY/GOPR0170-15.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/2012-NY/GOPR0170-15.jpg|http://skydogsports.com/A-HG/2012-NY/GOPR0170-15.jpg|A-HG

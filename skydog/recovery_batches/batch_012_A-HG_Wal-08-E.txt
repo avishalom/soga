@@ -1,0 +1,47 @@
+# BATCH 12: A-HG/Wal-08-E
+# Images to recover: 43
+# Format: HTML_FILE|IMG_SRC|LOCAL_PATH|SOURCE_URL|SECTION
+
+Wallaby-Feb-08.htm|Wal-08-E/25-Ariel-095.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Wal-08-E/25-Ariel-095.jpg|http://skydogsports.com/A-HG/Wal-08-E/25-Ariel-095.jpg|A-HG
+Wallaby-Feb-08.htm|Wal-08-E/25-Ariel-092.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Wal-08-E/25-Ariel-092.jpg|http://skydogsports.com/A-HG/Wal-08-E/25-Ariel-092.jpg|A-HG
+Wallaby-Feb-08.htm|Wal-08-E/25-Ariel-106.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Wal-08-E/25-Ariel-106.jpg|http://skydogsports.com/A-HG/Wal-08-E/25-Ariel-106.jpg|A-HG
+Wallaby-Feb-08.htm|Wal-08-E/25-Ariel-096-orig.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Wal-08-E/25-Ariel-096-orig.jpg|http://skydogsports.com/A-HG/Wal-08-E/25-Ariel-096-orig.jpg|A-HG
+Wallaby-Feb-08.htm|Wal-08-E/M-1-25-004.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Wal-08-E/M-1-25-004.jpg|http://skydogsports.com/A-HG/Wal-08-E/M-1-25-004.jpg|A-HG
+Wallaby-Feb-08.htm|Wal-08-E/M-1-25-048.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Wal-08-E/M-1-25-048.jpg|http://skydogsports.com/A-HG/Wal-08-E/M-1-25-048.jpg|A-HG
+Wallaby-Feb-08.htm|Wal-08-E/M-1-25-036.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Wal-08-E/M-1-25-036.jpg|http://skydogsports.com/A-HG/Wal-08-E/M-1-25-036.jpg|A-HG
+Wallaby-Feb-08.htm|Wal-08-E/M-1-25-051.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Wal-08-E/M-1-25-051.jpg|http://skydogsports.com/A-HG/Wal-08-E/M-1-25-051.jpg|A-HG
+Wallaby-Feb-08.htm|Wal-08-E/M-1-25-053.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Wal-08-E/M-1-25-053.jpg|http://skydogsports.com/A-HG/Wal-08-E/M-1-25-053.jpg|A-HG
+Wallaby-Feb-08.htm|Wal-08-E/M-1-25-120.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Wal-08-E/M-1-25-120.jpg|http://skydogsports.com/A-HG/Wal-08-E/M-1-25-120.jpg|A-HG
+Wallaby-Feb-08.htm|Wal-08-E/M-1-25-127.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Wal-08-E/M-1-25-127.jpg|http://skydogsports.com/A-HG/Wal-08-E/M-1-25-127.jpg|A-HG
+Wallaby-Feb-08.htm|Wal-08-E/M-1-25-126.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Wal-08-E/M-1-25-126.jpg|http://skydogsports.com/A-HG/Wal-08-E/M-1-25-126.jpg|A-HG
+Wallaby-Feb-08.htm|Wal-08-E/M-1-25-187.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Wal-08-E/M-1-25-187.jpg|http://skydogsports.com/A-HG/Wal-08-E/M-1-25-187.jpg|A-HG
+Wallaby-Feb-08.htm|Wal-08-E/M-1-25-219.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Wal-08-E/M-1-25-219.jpg|http://skydogsports.com/A-HG/Wal-08-E/M-1-25-219.jpg|A-HG
+Wallaby-Feb-08.htm|Wal-08-E/M-1-25-228.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Wal-08-E/M-1-25-228.jpg|http://skydogsports.com/A-HG/Wal-08-E/M-1-25-228.jpg|A-HG
+Wallaby-Feb-08.htm|Wal-08-E/M-1-25-347.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Wal-08-E/M-1-25-347.jpg|http://skydogsports.com/A-HG/Wal-08-E/M-1-25-347.jpg|A-HG
+Wallaby-Feb-08.htm|Wal-08-E/M-1-25-318.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Wal-08-E/M-1-25-318.jpg|http://skydogsports.com/A-HG/Wal-08-E/M-1-25-318.jpg|A-HG
+Wallaby-Feb-08.htm|Wal-08-E/M-1-25-217.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Wal-08-E/M-1-25-217.jpg|http://skydogsports.com/A-HG/Wal-08-E/M-1-25-217.jpg|A-HG
+Wallaby-Feb-08.htm|Wal-08-E/M-1-25-373.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Wal-08-E/M-1-25-373.jpg|http://skydogsports.com/A-HG/Wal-08-E/M-1-25-373.jpg|A-HG
+Wallaby-Feb-08.htm|Wal-08-E/M-1-25-379.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Wal-08-E/M-1-25-379.jpg|http://skydogsports.com/A-HG/Wal-08-E/M-1-25-379.jpg|A-HG
+Wallaby-Feb-08.htm|Wal-08-E/M-1-25-394.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Wal-08-E/M-1-25-394.jpg|http://skydogsports.com/A-HG/Wal-08-E/M-1-25-394.jpg|A-HG
+Wallaby-Feb-08.htm|Wal-08-E/M-1-25-431.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Wal-08-E/M-1-25-431.jpg|http://skydogsports.com/A-HG/Wal-08-E/M-1-25-431.jpg|A-HG
+Wallaby-Feb-08.htm|Wal-08-E/M-1-25-441.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Wal-08-E/M-1-25-441.jpg|http://skydogsports.com/A-HG/Wal-08-E/M-1-25-441.jpg|A-HG
+Wallaby-Feb-08.htm|Wal-08-E/M-1-25-497.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Wal-08-E/M-1-25-497.jpg|http://skydogsports.com/A-HG/Wal-08-E/M-1-25-497.jpg|A-HG
+Wallaby-Feb-08.htm|Wal-08-E/M-1-25-396.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Wal-08-E/M-1-25-396.jpg|http://skydogsports.com/A-HG/Wal-08-E/M-1-25-396.jpg|A-HG
+Wallaby-Feb-08.htm|Wal-08-E/M-1-25-514.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Wal-08-E/M-1-25-514.jpg|http://skydogsports.com/A-HG/Wal-08-E/M-1-25-514.jpg|A-HG
+Wallaby-Feb-08.htm|Wal-08-E/M-1-25-540.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Wal-08-E/M-1-25-540.jpg|http://skydogsports.com/A-HG/Wal-08-E/M-1-25-540.jpg|A-HG
+Wallaby-Feb-08.htm|Wal-08-E/M-1-25-559.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Wal-08-E/M-1-25-559.jpg|http://skydogsports.com/A-HG/Wal-08-E/M-1-25-559.jpg|A-HG
+Wallaby-Feb-08.htm|Wal-08-E/M-1-25-600.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Wal-08-E/M-1-25-600.jpg|http://skydogsports.com/A-HG/Wal-08-E/M-1-25-600.jpg|A-HG
+Wallaby-Feb-08.htm|Wal-08-E/M-1-25-632.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Wal-08-E/M-1-25-632.jpg|http://skydogsports.com/A-HG/Wal-08-E/M-1-25-632.jpg|A-HG
+Wallaby-Feb-08.htm|Wal-08-E/M-1-25-654.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Wal-08-E/M-1-25-654.jpg|http://skydogsports.com/A-HG/Wal-08-E/M-1-25-654.jpg|A-HG
+Wallaby-Feb-08.htm|Wal-08-E/M-1-25-694.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Wal-08-E/M-1-25-694.jpg|http://skydogsports.com/A-HG/Wal-08-E/M-1-25-694.jpg|A-HG
+Wallaby-Feb-08.htm|Wal-08-E/M-1-25-679.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Wal-08-E/M-1-25-679.jpg|http://skydogsports.com/A-HG/Wal-08-E/M-1-25-679.jpg|A-HG
+Wallaby-Feb-08.htm|Wal-08-E/M-1-25-727.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Wal-08-E/M-1-25-727.jpg|http://skydogsports.com/A-HG/Wal-08-E/M-1-25-727.jpg|A-HG
+Wallaby-Feb-08.htm|Wal-08-E/M-1-25-764.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Wal-08-E/M-1-25-764.jpg|http://skydogsports.com/A-HG/Wal-08-E/M-1-25-764.jpg|A-HG
+Wallaby-Feb-08.htm|Wal-08-E/M-2-25-019.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Wal-08-E/M-2-25-019.jpg|http://skydogsports.com/A-HG/Wal-08-E/M-2-25-019.jpg|A-HG
+Wallaby-Feb-08.htm|Wal-08-E/M-1-25-736.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Wal-08-E/M-1-25-736.jpg|http://skydogsports.com/A-HG/Wal-08-E/M-1-25-736.jpg|A-HG
+Wallaby-Feb-08.htm|Wal-08-E/M-2-25-023.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Wal-08-E/M-2-25-023.jpg|http://skydogsports.com/A-HG/Wal-08-E/M-2-25-023.jpg|A-HG
+Wallaby-Feb-08.htm|Wal-08-E/M-2-25-053.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Wal-08-E/M-2-25-053.jpg|http://skydogsports.com/A-HG/Wal-08-E/M-2-25-053.jpg|A-HG
+Wallaby-Feb-08.htm|Wal-08-E/M-2-25-158.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Wal-08-E/M-2-25-158.jpg|http://skydogsports.com/A-HG/Wal-08-E/M-2-25-158.jpg|A-HG
+Wallaby-Feb-08.htm|Wal-08-E/M-2-25-170.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Wal-08-E/M-2-25-170.jpg|http://skydogsports.com/A-HG/Wal-08-E/M-2-25-170.jpg|A-HG
+Wallaby-Feb-08.htm|Wal-08-E/M-1-25-127.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Wal-08-E/M-1-25-127.jpg|http://skydogsports.com/A-HG/Wal-08-E/M-1-25-127.jpg|A-HG
+Wallaby-Feb-08.htm|Wal-08-E/25-Ariel-096.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Wal-08-E/25-Ariel-096.jpg|http://skydogsports.com/A-HG/Wal-08-E/25-Ariel-096.jpg|A-HG

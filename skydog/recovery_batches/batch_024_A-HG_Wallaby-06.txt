@@ -1,0 +1,11 @@
+# BATCH 24: A-HG/Wallaby-06
+# Images to recover: 7
+# Format: HTML_FILE|IMG_SRC|LOCAL_PATH|SOURCE_URL|SECTION
+
+Wallaby-Ranch-06.htm|Wallaby-06/B-016.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Wallaby-06/B-016.jpg|http://skydogsports.com/A-HG/Wallaby-06/B-016.jpg|A-HG
+Wallaby-Ranch-06.htm|Wallaby-06/B-103.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Wallaby-06/B-103.jpg|http://skydogsports.com/A-HG/Wallaby-06/B-103.jpg|A-HG
+Wallaby-Ranch-06.htm|Wallaby-06/B-179.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Wallaby-06/B-179.jpg|http://skydogsports.com/A-HG/Wallaby-06/B-179.jpg|A-HG
+Wallaby-Ranch-06.htm|Wallaby-06/B-199.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Wallaby-06/B-199.jpg|http://skydogsports.com/A-HG/Wallaby-06/B-199.jpg|A-HG
+Wallaby-Ranch-06.htm|Wallaby-06/B-203.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Wallaby-06/B-203.jpg|http://skydogsports.com/A-HG/Wallaby-06/B-203.jpg|A-HG
+Wallaby-Ranch-06.htm|Wallaby-06/B-209.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Wallaby-06/B-209.jpg|http://skydogsports.com/A-HG/Wallaby-06/B-209.jpg|A-HG
+Wallaby-Ranch-06.htm|Wallaby-06/B-228.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Wallaby-06/B-228.jpg|http://skydogsports.com/A-HG/Wallaby-06/B-228.jpg|A-HG
