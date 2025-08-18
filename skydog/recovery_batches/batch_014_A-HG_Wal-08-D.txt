@@ -1,0 +1,14 @@
+# BATCH 14: A-HG/Wal-08-D
+# Images to recover: 10
+# Format: HTML_FILE|IMG_SRC|LOCAL_PATH|SOURCE_URL|SECTION
+
+Wallaby-Feb-08.htm|Wal-08-D/22-011.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Wal-08-D/22-011.jpg|http://skydogsports.com/A-HG/Wal-08-D/22-011.jpg|A-HG
+Wallaby-Feb-08.htm|Wal-08-D/22-026.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Wal-08-D/22-026.jpg|http://skydogsports.com/A-HG/Wal-08-D/22-026.jpg|A-HG
+Wallaby-Feb-08.htm|Wal-08-D/22-027.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Wal-08-D/22-027.jpg|http://skydogsports.com/A-HG/Wal-08-D/22-027.jpg|A-HG
+Wallaby-Feb-08.htm|Wal-08-D/14--th-009.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Wal-08-D/14--th-009.jpg|http://skydogsports.com/A-HG/Wal-08-D/14--th-009.jpg|A-HG
+Wallaby-Feb-08.htm|Wal-08-D/14--th-021.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Wal-08-D/14--th-021.jpg|http://skydogsports.com/A-HG/Wal-08-D/14--th-021.jpg|A-HG
+Wallaby-Feb-08.htm|Wal-08-D/Ariel-16-004.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Wal-08-D/Ariel-16-004.jpg|http://skydogsports.com/A-HG/Wal-08-D/Ariel-16-004.jpg|A-HG
+Wallaby-Feb-08.htm|Wal-08-D/Ariel-16-006.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Wal-08-D/Ariel-16-006.jpg|http://skydogsports.com/A-HG/Wal-08-D/Ariel-16-006.jpg|A-HG
+Wallaby-Feb-08.htm|Wal-08-D/Ariel-16-025.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Wal-08-D/Ariel-16-025.jpg|http://skydogsports.com/A-HG/Wal-08-D/Ariel-16-025.jpg|A-HG
+Wallaby-Feb-08.htm|Wal-08-D/Ariel-16-009.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Wal-08-D/Ariel-16-009.jpg|http://skydogsports.com/A-HG/Wal-08-D/Ariel-16-009.jpg|A-HG
+Wallaby-Feb-08.htm|Wal-08-D/Ariel-16-027.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Wal-08-D/Ariel-16-027.jpg|http://skydogsports.com/A-HG/Wal-08-D/Ariel-16-027.jpg|A-HG

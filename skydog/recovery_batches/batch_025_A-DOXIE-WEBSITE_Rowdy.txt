@@ -1,0 +1,14 @@
+# BATCH 25: A-DOXIE-WEBSITE/Rowdy
+# Images to recover: 10
+# Format: HTML_FILE|IMG_SRC|LOCAL_PATH|SOURCE_URL|SECTION
+
+rowdy.htm|Rowdy/rowdy-1.jpg|/Users/vishshalit/gith/soga/skydog/A-DOXIE-WEBSITE/Rowdy/rowdy-1.jpg|http://skydogsports.com/A-DOXIE-WEBSITE/Rowdy/rowdy-1.jpg|A-DOXIE-WEBSITE
+rowdy.htm|Rowdy/rowdy-n-matilda.jpg|/Users/vishshalit/gith/soga/skydog/A-DOXIE-WEBSITE/Rowdy/rowdy-n-matilda.jpg|http://skydogsports.com/A-DOXIE-WEBSITE/Rowdy/rowdy-n-matilda.jpg|A-DOXIE-WEBSITE
+rowdy.htm|Rowdy/Rowdy--2--home.jpg|/Users/vishshalit/gith/soga/skydog/A-DOXIE-WEBSITE/Rowdy/Rowdy--2--home.jpg|http://skydogsports.com/A-DOXIE-WEBSITE/Rowdy/Rowdy--2--home.jpg|A-DOXIE-WEBSITE
+rowdy.htm|Rowdy/Rowdy--2--new.jpg|/Users/vishshalit/gith/soga/skydog/A-DOXIE-WEBSITE/Rowdy/Rowdy--2--new.jpg|http://skydogsports.com/A-DOXIE-WEBSITE/Rowdy/Rowdy--2--new.jpg|A-DOXIE-WEBSITE
+rowdy.htm|Rowdy/Rowdy--1--home.jpg|/Users/vishshalit/gith/soga/skydog/A-DOXIE-WEBSITE/Rowdy/Rowdy--1--home.jpg|http://skydogsports.com/A-DOXIE-WEBSITE/Rowdy/Rowdy--1--home.jpg|A-DOXIE-WEBSITE
+rowdy.htm|Rowdy/Rowdy--1--new.jpg|/Users/vishshalit/gith/soga/skydog/A-DOXIE-WEBSITE/Rowdy/Rowdy--1--new.jpg|http://skydogsports.com/A-DOXIE-WEBSITE/Rowdy/Rowdy--1--new.jpg|A-DOXIE-WEBSITE
+rowdy.htm|Rowdy/Rowdy--Ana-1.jpg|/Users/vishshalit/gith/soga/skydog/A-DOXIE-WEBSITE/Rowdy/Rowdy--Ana-1.jpg|http://skydogsports.com/A-DOXIE-WEBSITE/Rowdy/Rowdy--Ana-1.jpg|A-DOXIE-WEBSITE
+rowdy.htm|Rowdy/Rowdy--3--1.jpg|/Users/vishshalit/gith/soga/skydog/A-DOXIE-WEBSITE/Rowdy/Rowdy--3--1.jpg|http://skydogsports.com/A-DOXIE-WEBSITE/Rowdy/Rowdy--3--1.jpg|A-DOXIE-WEBSITE
+rowdy.htm|Rowdy/Rowdy--3--home.jpg|/Users/vishshalit/gith/soga/skydog/A-DOXIE-WEBSITE/Rowdy/Rowdy--3--home.jpg|http://skydogsports.com/A-DOXIE-WEBSITE/Rowdy/Rowdy--3--home.jpg|A-DOXIE-WEBSITE
+rowdy.htm|Rowdy/Rowdy--3--2.jpg|/Users/vishshalit/gith/soga/skydog/A-DOXIE-WEBSITE/Rowdy/Rowdy--3--2.jpg|http://skydogsports.com/A-DOXIE-WEBSITE/Rowdy/Rowdy--3--2.jpg|A-DOXIE-WEBSITE

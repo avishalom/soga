@@ -1,0 +1,26 @@
+# BATCH 7: A-HG/Quest-06
+# Images to recover: 22
+# Format: HTML_FILE|IMG_SRC|LOCAL_PATH|SOURCE_URL|SECTION
+
+Quest-06.htm|Quest-06/B-143.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Quest-06/B-143.jpg|http://skydogsports.com/A-HG/Quest-06/B-143.jpg|A-HG
+Quest-06.htm|Quest-06/B-129.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Quest-06/B-129.jpg|http://skydogsports.com/A-HG/Quest-06/B-129.jpg|A-HG
+Quest-06.htm|Quest-06/B-133.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Quest-06/B-133.jpg|http://skydogsports.com/A-HG/Quest-06/B-133.jpg|A-HG
+Quest-06.htm|Quest-06/B-136.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Quest-06/B-136.jpg|http://skydogsports.com/A-HG/Quest-06/B-136.jpg|A-HG
+Quest-06.htm|Quest-06/B-114.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Quest-06/B-114.jpg|http://skydogsports.com/A-HG/Quest-06/B-114.jpg|A-HG
+Quest-06.htm|Quest-06/B-119.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Quest-06/B-119.jpg|http://skydogsports.com/A-HG/Quest-06/B-119.jpg|A-HG
+Quest-06.htm|Quest-06/B-145.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Quest-06/B-145.jpg|http://skydogsports.com/A-HG/Quest-06/B-145.jpg|A-HG
+Quest-06.htm|Quest-06/B-167.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Quest-06/B-167.jpg|http://skydogsports.com/A-HG/Quest-06/B-167.jpg|A-HG
+Quest-06.htm|Quest-06/B-174.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Quest-06/B-174.jpg|http://skydogsports.com/A-HG/Quest-06/B-174.jpg|A-HG
+Quest-06.htm|Quest-06/B-193.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Quest-06/B-193.jpg|http://skydogsports.com/A-HG/Quest-06/B-193.jpg|A-HG
+Quest-06.htm|Quest-06/B-235.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Quest-06/B-235.jpg|http://skydogsports.com/A-HG/Quest-06/B-235.jpg|A-HG
+Quest-06.htm|Quest-06/Feb-1&2-099.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Quest-06/Feb-1&2-099.jpg|http://skydogsports.com/A-HG/Quest-06/Feb-1&2-099.jpg|A-HG
+Quest-06.htm|Quest-06/Feb-1&2-108.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Quest-06/Feb-1&2-108.jpg|http://skydogsports.com/A-HG/Quest-06/Feb-1&2-108.jpg|A-HG
+Quest-06.htm|Quest-06/Feb-1&2-M-007.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Quest-06/Feb-1&2-M-007.jpg|http://skydogsports.com/A-HG/Quest-06/Feb-1&2-M-007.jpg|A-HG
+Quest-06.htm|Quest-06/Feb-1&2-M-022.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Quest-06/Feb-1&2-M-022.jpg|http://skydogsports.com/A-HG/Quest-06/Feb-1&2-M-022.jpg|A-HG
+Quest-06.htm|Quest-06/Feb-1&2-M-035.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Quest-06/Feb-1&2-M-035.jpg|http://skydogsports.com/A-HG/Quest-06/Feb-1&2-M-035.jpg|A-HG
+Quest-06.htm|Quest-06/Feb-1&2-M-041.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Quest-06/Feb-1&2-M-041.jpg|http://skydogsports.com/A-HG/Quest-06/Feb-1&2-M-041.jpg|A-HG
+Quest-06.htm|Quest-06/B-001.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Quest-06/B-001.jpg|http://skydogsports.com/A-HG/Quest-06/B-001.jpg|A-HG
+Quest-06.htm|Quest-06/B-004.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Quest-06/B-004.jpg|http://skydogsports.com/A-HG/Quest-06/B-004.jpg|A-HG
+Quest-06.htm|Quest-06/B-026.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Quest-06/B-026.jpg|http://skydogsports.com/A-HG/Quest-06/B-026.jpg|A-HG
+Quest-06.htm|Quest-06/B-084.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Quest-06/B-084.jpg|http://skydogsports.com/A-HG/Quest-06/B-084.jpg|A-HG
+Quest-06.htm|Quest-06/A-060-Auto-adj-&-darken.jpg|/Users/vishshalit/gith/soga/skydog/A-HG/Quest-06/A-060-Auto-adj-&-darken.jpg|http://skydogsports.com/A-HG/Quest-06/A-060-Auto-adj-&-darken.jpg|A-HG
