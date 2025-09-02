@@ -42,3 +42,26 @@ iframe {
             margin: 0.5rem 0;
         }
 
+/* Skydog Memorial Button - emulating skydogsports.com style */
+.skydog-memorial-button {
+    display: inline-block;
+    background-color: #FF0000;
+    border: 6px solid;
+    border-color: #FFFF00 #66CCFF #66CCFF #FFFF00;
+    padding: 8px 16px;
+    text-decoration: none;
+    color: #FFFFFF !important;
+    font-family: Tahoma, Arial, sans-serif;
+    font-size: 1.2em;
+    font-weight: bold;
+    text-align: center;
+    margin: 1rem 0;
+    transition: all 0.3s ease;
+}
+
+.skydog-memorial-button:hover {
+    color: #FFFF00 !important;
+    border-color: #66CCFF #FFFF00 #FFFF00 #66CCFF;
+    text-decoration: none;
+}
+
