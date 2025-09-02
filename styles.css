@@ -45,8 +45,8 @@ iframe {
 /* Skydog Memorial Button - emulating skydogsports.com style */
 .skydog-memorial-button {
     display: inline-block;
-    background-color: #FF0000;
-    border: 6px solid;
+    background-color: #000000;
+    border: 4px solid;
     border-color: #FFFF00 #66CCFF #66CCFF #FFFF00;
     padding: 8px 16px;
     text-decoration: none;
