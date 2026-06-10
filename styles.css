@@ -2,11 +2,13 @@
     font-size: 1.5em;
 }
 .soga-logo {
-    width: 150px;      /* shield badge, top-left of each page */
-    max-width: 40%;    /* shrink gracefully on narrow screens */
+    width: 250px;      /* enlarged shield badge */
     height: auto;
     display: block;
     margin: 0;         /* anchored left */
+}
+.header-columns {
+    gap: 0.5rem;       /* pull titles closer to logo */
 }
 .navbar-item {
     font-size: 1.3em;
