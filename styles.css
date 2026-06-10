@@ -2,7 +2,7 @@
     font-size: 1.5em;
 }
 .soga-logo {
-    width: 62%; /* Increased from 55% */
+    width: 124%; /* ~2x; overflows its narrow column without shifting other elements */
     display: block;
     margin: 0 auto;
 }
