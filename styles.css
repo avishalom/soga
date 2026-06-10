@@ -3,6 +3,7 @@
 }
 .soga-logo {
     width: 124%; /* ~2x; overflows its narrow column without shifting other elements */
+    max-width: none; /* override Bulma's reset (img { max-width: 100% }) so it can grow */
     display: block;
     margin: 0 auto;
 }
