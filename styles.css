@@ -11,6 +11,12 @@
     padding: 0.05rem 0.1rem;
     margin: 0;
 }
+/* Uniform active-page indicator in the nav tabs */
+.tabs li.is-active a {
+    border-bottom-color: #3273dc;
+    color: #3273dc;
+    font-weight: bold;
+}
 ul.custom-list {
     list-style-position: inside;
     text-align: left;
@@ -57,6 +63,26 @@ iframe {
     margin-top: 0;
     color: #b8860b;
     text-shadow: 0 1px 0 rgba(255, 255, 255, 0.7);
+}
+
+/* Gallery page figures */
+.gallery-image {
+    margin-bottom: 2em;
+}
+
+.gallery-caption {
+    font-family: Arial, sans-serif;
+    margin-top: 0.5em;
+    margin-bottom: 2em;
+}
+
+/* Contact page text helpers */
+.blue-text {
+    color: #3273dc;
+}
+
+.underline {
+    text-decoration: underline;
 }
 
 /* Skydog Memorial Button - emulating skydogsports.com style */
