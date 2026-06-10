@@ -2,7 +2,14 @@
     font-size: 1.5em;
 }
 .soga-logo {
-    width: 250px;      /* enlarged shield badge */
+    width: 150px;      /* original shield badge size */
+    max-width: 40%;    /* shrink gracefully on narrow screens */
+    height: auto;
+    display: block;
+    margin: 0;         /* anchored left */
+}
+.soga-logo-large {
+    width: 250px;      /* enlarged shield badge for main pages */
     height: auto;
     display: block;
     margin: 0;         /* anchored left */
