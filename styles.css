@@ -37,8 +37,17 @@ ul.custom-list {
     max-width: 70%;
     margin: 0 auto;
 }
+.restricted-banner {
+    max-width: 800px;
+    margin: 2rem auto;
+    display: block;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
 .column img {
     margin: 0; /* No margin for images */
+    border-radius: 4px; /* Slight round for column images */
 }
 iframe {
             border: none; /* Existing iframe style from contact page */
@@ -51,6 +60,8 @@ iframe {
 
 .story-image {
             margin: 1rem;
+            border-radius: 6px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
         }
 
 .image-caption {
@@ -77,14 +88,28 @@ iframe {
 }
 
 /* Gallery page figures */
+.gallery-image img {
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    width: 100%; /* Fill the column */
+    height: auto;
+}
+
+.gallery-image img:hover {
+    transform: scale(1.03);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
 .gallery-image {
-    margin-bottom: 2em;
+    margin-bottom: 2rem;
 }
 
 .gallery-caption {
     font-family: Arial, sans-serif;
-    margin-top: 0.5em;
-    margin-bottom: 2em;
+    margin-top: 0.75rem;
+    font-size: 1.1em;
+    color: #4a4a4a;
 }
 
 /* Contact page text helpers */
