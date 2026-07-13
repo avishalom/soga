@@ -45,6 +45,36 @@ ul.custom-list {
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
 
+/* Home page banner: photo + XC tracks map at equal height.
+   flex-grow values are the images' aspect ratios (w/h), so the
+   widths come out proportional and both render the same height. */
+.banner-row {
+    display: flex;
+    align-items: flex-start;
+    gap: 1rem;
+    max-width: 1100px;
+    margin: 2rem auto;
+}
+.banner-row img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    min-width: 0;
+}
+.banner-row .banner-photo {
+    flex: 2.179 1 0;   /* 1000x459 */
+}
+.banner-row .banner-map {
+    flex: 1.458 1 0;   /* 1439x987 */
+}
+@media screen and (max-width: 768px) {
+    .banner-row {
+        flex-direction: column;
+    }
+}
+
 .column img {
     margin: 0; /* No margin for images */
     border-radius: 4px; /* Slight round for column images */
