@@ -8,6 +8,23 @@ This directory (`/skydog/`) is intended to mirror the original **skydogsports.co
 - **Current Status**: ⚠️ **OFFLINE** - Certificate expired, site inaccessible as of August 2025
 - **Mirror Purpose**: Preserve this valuable archive of extreme sports documentation
 
+## Restoration Update (July 2026)
+
+The statistics below this section are historical. As of 2026-07-13 the mirror is essentially fully restored:
+
+- **23 broken image references remain** (out of ~14,700). They point to 21 files that exist nowhere
+  locally and were never captured by the Wayback Machine (verified via CDX API): the whole
+  `SKYNET/w-surf/` gallery (12 refs), 4 photos in `A-HG/Cld-9-2001-L-D.htm`, 6 refs in
+  `A-DOXIE-WEBSITE`, and 1 in `A-kayaks/Kayak-P5.htm`. These are unrecoverable unless found offline.
+- Fixed by renaming files/directories that had literal `%20` / `&amp;` in their on-disk names
+  (bad-download artifacts) to the browser-decoded names the HTML actually requests
+  (e.g. `A-HG/2014-WW-A/26%20th` → `26 th`). ~180 broken refs resolved this way.
+- Deleted 12 fake images that were actually saved 404 HTML pages (315 bytes each).
+- **Every image under `A-HG/` is now reachable from a page.** 174 photos that no page displayed were
+  published on 7 new "additional photos" gallery pages (`A-HG/*-More.htm` /
+  `A-HG/2018-Quest-Take-Offs-More.htm`), each linked from its trip page below the Skydog Sports header.
+- 21 orphan images remain outside A-HG (`A-UKULELE`, `A-TRIKE`, `Inuksuk`) — displayed nowhere but harmless.
+
 ## Site Structure
 
 The mirror contains **229 HTML files** organized into sport-specific directories:
