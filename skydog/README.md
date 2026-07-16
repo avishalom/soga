@@ -25,7 +25,21 @@ The statistics below this section are historical. As of 2026-07-13 the mirror is
   `A-HG/2018-Quest-Take-Offs-More.htm`), each linked from its trip page below the Skydog Sports header.
 - 21 orphan images remain outside A-HG (`A-UKULELE`, `A-TRIKE`, `Inuksuk`) — displayed nowhere but harmless.
 
-## Site Structure
+### Dead-link campaign (2026-07-14..16)
+
+A follow-up campaign fixed the site's dead *page* links (687 found initially):
+
+- `A-HG.html` (a stale duplicate of `A-HG/index.html` one level up, served by GitHub Pages for the
+  extensionless `/skydog/A-HG` URL) was replaced with a redirect; ~187 links fixed in one move.
+- ~500 links rewired: legacy invisible menu links on `index.html`, lowercase `skynet/` on a
+  case-sensitive host, wrong `hg-1/` prefixes, and pages that exist elsewhere in the mirror.
+- **107 never-mirrored pages recovered from the Wayback Machine** into the original site layout:
+  `hg-1/` (with its original index), `SKYNET/` galleries/stories/Customer-reviews, `videos/`,
+  `dfsc/` (Dragonfly Soaring Club), `flap/`, `camp/` (Hammondsport, with all photos), `k-ski/`,
+  `r-c-aircraft/`, plus per-section pages. ~440 of their images were also recovered.
+- **Known-dead remainder** (verified not in the Wayback Machine): 213 page links whose targets were
+  never archived, ~127 `.wmv`/`.avi` video links (media was never crawled), and ~2,000 gallery
+  images on the recovered pages. These need an offline backup to restore.
 
 The mirror contains **229 HTML files** organized into sport-specific directories:
 
